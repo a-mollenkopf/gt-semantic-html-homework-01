@@ -3,10 +3,10 @@
 
 # Table of contents
 
-* [Installing](Installing)
-* [Features](Features)
-* [Credits](Credits)
-* [License](License)
+* [Installing](#Installing)
+* [Features](#Features)
+* [Credits](#Credits)
+* [License](#License)
 
 # Installing 
 
